@@ -1,0 +1,19 @@
+{
+  "name": "stick-it-web-server-chat",
+  "version": "1.0.0",
+  "description": "Chat server for StickIt project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guedjm/StickItWebServerChat.git"
+  },
+  "author": "Maxime Guedj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guedjm/StickItWebServerChat/issues"
+  },
+  "homepage": "https://github.com/guedjm/StickItWebServerChat#readme"
+}
