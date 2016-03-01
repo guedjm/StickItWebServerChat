@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/guedjm/StickItWebServerChat/issues"
   },
-  "homepage": "https://github.com/guedjm/StickItWebServerChat#readme"
+  "homepage": "https://github.com/guedjm/StickItWebServerChat#readme",
+  "dependencies": {
+    "ws": "^1.0.1"
+  }
 }
